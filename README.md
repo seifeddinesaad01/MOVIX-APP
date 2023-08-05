@@ -1,2 +1,2 @@
-# MOVIX APP
+# MOVIX WEb APP
 ![omnifood](./public/overview.png "Optional Title")

@@ -1,2 +1,2 @@
 # MOVIX APP
-![omnifood](./public/overview.png "Optional Title")
+![Movix](./public/overview.png "Optional Title")
